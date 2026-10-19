@@ -1,0 +1,8 @@
+algoritmo,tamanho,tempo_segundos
+Heap Sort,1000,0.001000
+Heap Sort,10000,0.002000
+Heap Sort,100000,0.017000
+Heap Sort,1000000,0.340000
+Heap Sort,10000000,4.638000
+Heap Sort,100000000,72.230000
+Heap Sort,1000000000,1106.924000

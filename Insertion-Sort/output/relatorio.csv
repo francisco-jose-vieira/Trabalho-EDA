@@ -1,0 +1,5 @@
+algoritmo,tamanho,tempo_segundos
+Insertion Sort,1000,0.002000
+Insertion Sort,10000,0.078000
+Insertion Sort,100000,6.647000
+Insertion Sort,1000000,675.924000
